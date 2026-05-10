@@ -1,5 +1,0 @@
-include:
-  - board: seeed_xiao_ble
-    shield: RINIA48_left
-  - board: seeed_xiao_ble
-    shield: RINIA48_right

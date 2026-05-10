@@ -1,0 +1,9 @@
+if SHIELD_RINIA48_LEFT
+    config ZMK_KEYBOARD_NAME
+        default "RINIA48"
+endif
+
+if SHIELD_RINIA48_RIGHT
+    config ZMK_KEYBOARD_NAME
+        default "RINIA48"
+endif

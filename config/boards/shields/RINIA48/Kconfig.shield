@@ -1,0 +1,5 @@
+config SHIELD_RINIA48_LEFT
+    def_bool $(shields_list_contains,RINIA48_left)
+
+config SHIELD_RINIA48_RIGHT
+    def_bool $(shields_list_contains,RINIA48_right)
